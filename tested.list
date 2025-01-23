@@ -2,6 +2,7 @@
 0ad
 0ad-latest
 3d-puzzles
+432hz-player
 7zip
 86box
 9launcher
@@ -63,6 +64,7 @@ anytype
 anzeigenchef
 aphototoollibre
 apifox
+apk-editor-studio
 apla
 app-outlet
 appflowy
@@ -75,6 +77,7 @@ appimagelint
 appimagen
 appimagepool
 appimagetool
+appimageupdate
 appimageupdater
 appimageupdatetool
 appinstall
@@ -91,6 +94,7 @@ archipel
 archipelago
 archisteamfarm
 arena-tracker
+aretext
 ark
 arkaway
 arma3-unix-launcher
@@ -110,6 +114,7 @@ audacity
 audiomoth
 audiorelay
 augur
+auryo
 authme
 authy
 autoedit2
@@ -170,9 +175,11 @@ blender
 blender-beta
 blender-rc
 blensor
+blimp
 blizzard-4
 blob-dl
 blobdrop
+block-dx
 blockbench
 blockstream-green
 bloks
@@ -185,6 +192,7 @@ bodacious
 bodhi
 boilr
 bomber
+bonsai-maui
 book-manager
 bookmarks-manager
 boost-note
@@ -223,8 +231,10 @@ bulkreviewer
 bulkurlopener
 bunnyfetch
 bunqdesktop
+burning-series
 buttercup
 bypass-cors
+bytespeichertrayicon
 cabal-desktop
 cacher
 cadmus
@@ -240,10 +250,13 @@ candycrisis
 capbattleship
 cargo
 carta
+cask
 casm
+casterr
 castersoundboard
 catalyst
 catapult
+catcher
 cate-desktop
 cavoke
 cbetar2
@@ -301,6 +314,7 @@ cocomusic
 code-radio
 coinstac
 colon
+colorgenerator
 colorpicker
 colorstatic-bash
 comic-book-reader
@@ -317,10 +331,12 @@ conty-lite
 conty-wine
 converter432hz
 cool-retro-term
+coolercontrold
 copytranslator
 cordlauncher
 coreaction
 corearchiver
+corefm
 coregarage
 corehunt
 coreimage
@@ -375,9 +391,12 @@ cutechess
 cutepeaks
 cutter
 dana
+darktable
 darktable-nightly
 dashy-app
+dataset-annotator
 datcord
+dawnlightsearch
 dbeaver-ce
 dbee
 dbet-wallet
@@ -424,6 +443,7 @@ dl-desktop
 dockstation
 doggo
 dolphin-emu
+domterm
 dooit
 dopamine-preview
 doublecmd-qt
@@ -431,6 +451,7 @@ downline
 dra
 dragoman
 dragula
+draw.io
 drawpile
 drill
 droidcam
@@ -444,6 +465,7 @@ dune
 duskplayer
 dust
 dust3d
+dvdisaster
 dwarf-fortress
 eaglemode
 easymercurial
@@ -452,6 +474,7 @@ ecode
 edex-ui
 effer
 eget
+ehdev-shell
 eka2l1
 eksplode.re
 elcalc
@@ -515,7 +538,9 @@ exe
 exeqt
 exifcleaner
 exocortex
+explorook
 exportoo
+exsplode.re
 extraterm
 extrema
 extremetuxracer
@@ -538,6 +563,7 @@ fat-wallet
 fchat
 fchat-rising
 fcp
+fd
 fdc3-sail
 fdm
 feather-wallet
@@ -557,6 +583,7 @@ ffwa-netflix
 ffwa-whatsapp
 ffwa-wikipedia
 ffwa-youtube
+ficus
 fidias-database-migration-app
 fiery-maui
 fifo
@@ -571,6 +598,7 @@ fingrom
 firealpaca
 firedragon
 firefox
+firefox-appimage
 firefox-beta
 firefox-beta-appimage
 firefox-dev
@@ -601,6 +629,7 @@ flyingcarpet
 fman
 fmradio
 fms-file-explorer
+focalizzare
 focus
 focusatwill
 focuswriter
@@ -625,6 +654,7 @@ freefilesync
 freeman
 freeshow
 freetexturepacker
+freetube
 freeze
 freezer
 freshfetch
@@ -686,6 +716,7 @@ githoard
 github-desktop
 gitify
 gitjournal
+gitkraken
 gitleaks
 gitlight
 gitql
@@ -704,6 +735,7 @@ gnome-calculator
 gnome-tweaks
 gnumeric
 go-pd
+go-pd-gui
 go-spotify-cli
 godmode
 godot
@@ -730,6 +762,7 @@ goto
 goverlay
 gpg-tui
 gpgfrontend
+gping
 gpredict
 gpt-anywhere
 gpupad
@@ -763,6 +796,7 @@ hades-emu
 hamsket
 handbrake
 handlr
+hapee
 hashsum
 hastyheroes
 haveno-reto
@@ -792,10 +826,12 @@ httpie-desktop
 hugin
 hugor
 humanlog
+huwinterpreter
 hw-probe
 hydra
 hydrogen-music
 hyper
+hyperdex
 hyperionide
 hyperkeys
 hypersomnia
@@ -856,6 +892,7 @@ jazz2
 jdappstreamedit
 jddesktopentryedit
 jdminecraftlauncher
+jdmrpackinstaller
 jdnbtexplorer
 jdreplace
 jdtextedit
@@ -885,6 +922,7 @@ js-design
 jscad-desktop
 juggernaut
 julius
+jumpfm
 junest
 kade
 kadium
@@ -923,6 +961,7 @@ keditbookmarks
 keep
 keepassxc
 keepassxc-devel
+keeweb
 keibo-moneytracker-x86-64
 kettleclient
 kevedit
@@ -935,6 +974,7 @@ kfind
 kfourinline
 kgoldrunner
 kgpg
+kibi
 kicad
 kigo
 kiibohd-configurator
@@ -947,6 +987,7 @@ kjumpingcube
 klickety
 klines
 klogg
+kmahjongg
 kmines
 kmon
 kmonad
@@ -1012,14 +1053,17 @@ lescovex
 levior
 lexido
 lf
+libassist
 libertem
 librepcb
 libresprite
 librewolf
 lightning
 lightning-peach-wallet
+liground
 liketaskmanager
 lime3ds
+linedancer
 linked
 linphone
 linux-intel-undervolt-gui
@@ -1033,6 +1077,7 @@ liteide
 litime
 lmms
 lmstudio
+local-browser
 lockbook-cli
 lockbook-desktop
 loginized
@@ -1078,6 +1123,7 @@ mapton
 mark-mind
 markflowy
 markman
+marktext
 martian
 marvin
 mate-system-monitor
@@ -1137,6 +1183,7 @@ minimal-podcasts-player
 minions
 minizinc-ide
 mira-backup
+mirage
 miru
 mission-center
 miteiru
@@ -1146,6 +1193,7 @@ mkvtoolnix
 mlv-app
 mmapper
 mmseqs2-search
+moarperf
 mob
 mochi
 mockman
@@ -1175,10 +1223,13 @@ mqtt-explorer
 mqttcute
 mr.dclutterer
 mrcode
+mrwriter
 mtcelledit
 mudita-center
 muffon
+mullvad-browser
 multimc
+munt
 mupdf
 muse
 museeks
@@ -1193,8 +1244,10 @@ my-budget
 my-jira
 mybelka
 mycroft-ai
+mycrypto
 mytonwallet
 n3h
+nami
 nanosaur2
 nanovault
 nap
@@ -1223,6 +1276,7 @@ nexus-mods
 nexus-wallet
 ngpost
 nheko
+niffler
 nightpdf
 nightwave-plaza-electron
 nimbus-weather
@@ -1243,6 +1297,7 @@ notable
 notedown
 notekit
 notepad++
+notepadnext
 noter
 notes-nc
 noteshrink-qt
@@ -1276,15 +1331,18 @@ ocat
 ocenaudio
 ocvvid2fulldome
 ocvwarp
+odicto
 oh-my-git
 oh-mymd
 olive
+olive-legacy
 omekasy
 omnispeak
 one-gpt
 onedrive-gui
 onefetch
 onekey-wallet
+onenote
 onionmediax
 onlyoffice
 onlyrefs
@@ -1293,10 +1351,12 @@ onnx2daq
 onshape
 onyx
 opal
+open-ai-translator
 open-markup-editor
 open-video-downloader
 openapi-tui
 openarena
+openaudible
 openblok
 opencomic
 openlens
@@ -1311,6 +1371,7 @@ openramodsdk
 openrgb
 openscad
 openshot
+openstream-music
 opentodolist
 opentrons
 openxcom
@@ -1367,13 +1428,16 @@ pcsx-redux
 pcsx2
 pdf-diff
 pdf-sync
+pdf2htmlex
 pdf4qt
 pdfcompress
 pdfcrackgui
 pdfquirk
 pdmaner
 peazip
+peep
 pelusica
+pencil
 perl-executing-browser
 peruse
 pet
@@ -1382,6 +1446,7 @@ phinch
 pho
 photocrea
 photoflare
+photogimp
 photon
 photoname
 photopealoader
@@ -1403,12 +1468,14 @@ pince
 pingendo
 pingnoo
 pingu
+pingviewer
 pinokio
 pinta-dev
 pipes-rs
 pix-maui
 pixelhopper
 pixelorama
+pixfetch
 pixsrt
 pizarra
 pkg2appimage
@@ -1426,6 +1493,8 @@ playit
 playme
 playyourdamnturn
 plex
+plexamp
+plotjuggler
 plotly-orca
 plover
 plume
@@ -1440,7 +1509,9 @@ poi
 pointless
 pokeget-rs
 pokego
+polar
 polar-bookshelf
+polkakey
 polybar
 polypane
 pomatez
@@ -1467,6 +1538,7 @@ printerclient
 prisma-studio
 prismlauncher
 prismlauncher-qt5
+privacy.sexy
 procdepmonitor
 procs
 procspin
@@ -1493,6 +1565,7 @@ pyfa
 python2.7
 python3.10
 python3.11
+python3.12
 python3.5
 python3.6
 python3.7
@@ -1551,6 +1624,7 @@ quicktwitch
 quickviewer
 quokkagit
 quran-companion
+qv2ray
 qview
 r2modman
 r3play
@@ -1642,12 +1716,14 @@ savvycan
 sayonara
 sbe
 sblauncher
+sc-controller
 scatter
 scavengers
 schilbidi-chat
 schildichat
 school-sections
 sciencefair
+scilab
 scraper
 scratux
 scrcpy
@@ -1658,8 +1734,10 @@ scrum-retroboard
 sd
 secops
 seismic
+selenium-ide
 sengi
 senpa-io-client
+sentinel
 serial-studio
 serioussamtfe
 serioussamtfe-vk
@@ -1708,6 +1786,7 @@ simtoolkitpro
 singlebox
 sinon
 sioyek
+sipgate-softphone
 siril
 siyuan
 skanpage
@@ -1749,6 +1828,7 @@ soul-arena
 sourcetrail
 sozi
 spacebar
+spacebar-debug
 spacemesh
 spacewars
 spark-wallet
@@ -1781,6 +1861,7 @@ srb2k
 ssplot
 stacer
 stackandconquer
+standard-notes
 starc
 stash-electron
 station
@@ -1797,6 +1878,7 @@ stereophotoview
 stew
 sticker-convert
 stockstalk
+stoplight
 storaji
 storyboarder
 strans
@@ -1807,6 +1889,7 @@ streamdock
 streamlink
 streamlink-twitch-gui
 streamon
+stretchly
 strike-maui
 strongbox
 structure
@@ -1886,7 +1969,9 @@ testdisk
 texmacs
 texstudio
 textnote
+textosaurus
 tgpt
+thedesk
 theframe
 thermusqt
 theweb
@@ -1900,9 +1985,12 @@ thorium-reader
 thorium-sse3
 thorium-sse4
 thunderbird
+thunderbird-appimage
 thunderbird-beta
+thunderbird-beta-appimage
 thunderbird-nightly
 thunderbird-nightly-appimage
+ticker
 tidal-hifi
 tilde-podcast
 tiled
@@ -1921,13 +2009,16 @@ todoist
 todorant
 todorust
 toerings
+toipe
 tomatox
 topgrade
 tor-browser
+tor-browser-alpha
 torcs
 torrenttools
 toru
 toughcookies
+trackaudio
 trader
 trans
 transfernow
@@ -2024,6 +2115,7 @@ visual-define-xml-editor
 visualfamilytree
 vita3k
 vitomu
+viu
 vivaldi-stable
 vivifyscrum
 vizgraph
@@ -2044,6 +2136,7 @@ vtm
 vue-calc
 vuerd
 vvave-maui
+w2vgrep
 walc
 walk
 wallettech
@@ -2134,6 +2227,7 @@ xplist
 xplorer
 xtuber
 xxh
+yaf
 yaka
 yam
 yandex-browser
@@ -2154,12 +2248,14 @@ ytarchive
 ytdownloader
 ytermusic
 ytmdesktop
+ytmdesktop2
 yubikey-manager
 yup
 yuview
 zap
 zapdesktop
 zapzap
+zed
 zegarek
 zegrapher
 zellij
@@ -2174,6 +2270,7 @@ zk
 znax
 znote
 zograscope
+zoom
 zoxide
 zramen
 zsync2
