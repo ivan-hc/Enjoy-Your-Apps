@@ -473,6 +473,7 @@ dbgate
 dbin
 deadbeef
 deadbeef-appimage
+deadbeef-nightly
 deadbeef-nightly-appimage
 deadgame-2048
 deb2appimage
@@ -565,6 +566,7 @@ eget
 ehdev-shell
 eka2l1
 eksplode.re
+elapp
 elcalc
 eldumper
 electorrent
@@ -1223,6 +1225,7 @@ lf
 libassist
 libertem
 librecad
+libreoffice
 librepcb
 libresprite
 librewolf
@@ -1346,6 +1349,7 @@ meshmill
 meta-grabber
 mgba
 micropad
+microsoft-edge
 microsoft-edge-beta
 microsoft-edge-dev
 midori
@@ -1486,6 +1490,7 @@ nodeflow
 nodes
 nootka
 nora
+nordvpn-appimage
 normcap
 nosqlbooster
 nostlan
@@ -1813,6 +1818,7 @@ qbittorrent-enhanced
 qctools
 qdriverstation
 qelectrotech
+qemu-appimage
 qemu-ppc
 qflipper
 qfsm
