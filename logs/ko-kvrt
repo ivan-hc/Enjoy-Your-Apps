@@ -1,0 +1,23 @@
+Shell completion has been enabled!
+============================================================================
+
+                  [1;34mSTART OF ALL INSTALLATION PROCESSES[0m
+
+============================================================================
+
+ ◆ "KVRT": starting installation script
+
+--2025-02-05 05:22:38--  https://devbuilds.s.kaspersky-labs.com/kvrt_linux/latest/kvrt.run
+Resolving devbuilds.s.kaspersky-labs.com (devbuilds.s.kaspersky-labs.com)... 4.28.136.57
+Connecting to devbuilds.s.kaspersky-labs.com (devbuilds.s.kaspersky-labs.com)|4.28.136.57|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2025-02-05 05:22:39 ERROR 403: Forbidden.
+
+
+ 💀 ERROR DURING INSTALLATION, REMOVED "KVRT"!
+____________________________________________________________________________
+============================================================================
+
+                  [1;34mEND OF ALL INSTALLATION PROCESSES
+[0m
+============================================================================
